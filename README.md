@@ -4,7 +4,7 @@
 
 # About The Project
 
-This is just a simple Dice Rolling app built for the tutorial purpose
+This is just a simple Dice Rolling app built for the Extra Curricular Activity for my University VIT.
 
 ---
 
