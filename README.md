@@ -35,10 +35,6 @@ then this will work fine on browser but will cause error in emulator.
 This project is a starting point for a Flutter application.
 
 To get a local copy up and running follow these simple steps
-
-- clone the repository
-
-    https://github.com/nishitdixit/rolling_Dice.git
   
 - Running your Flutter app
 
